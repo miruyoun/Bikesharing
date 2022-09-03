@@ -5,6 +5,8 @@ Given the success of the bike-sharing program in NYC, this analysis is intended 
 
 ## Results
 
+For full access to story: [Click Here](https://public.tableau.com/app/profile/mi.ru.youn/viz/NYCCitiBike_16612970327650/NYCStoryChallenge)
+
 ### Checkout Times for Users
 ![1](https://user-images.githubusercontent.com/106292020/188208807-c4e9300f-5b57-4f87-8ba3-c2cd192bfdac.PNG)
 In the image above, we can see that bike trip duration usually lasts up to five minutes. After five minutes, bike utilization decreases exponentially, and after an hour, it plateaus. 
